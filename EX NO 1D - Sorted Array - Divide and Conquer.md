@@ -1,6 +1,5 @@
 
 # EX 1D Sorted Array using Divide and Conquer Approach.
-## DATE: 11.9.25
 ## AIM:
 To write a Java program to for given constraints.
 Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.
@@ -31,8 +30,8 @@ The overall run time complexity should be O(log (m+n)).
 ```
 /*
 Program to implement Reverse a String
-Developed by: Gayathri T
-Register Number: 212223100007
+Developed by: Priyanka A
+Register Number: 212222230113
 */
 import java.util.Scanner;
 
